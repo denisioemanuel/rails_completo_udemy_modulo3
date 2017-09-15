@@ -18,7 +18,7 @@ gem 'enum_help'
 gem 'pundit'
 # Integration of RubyMoney - Money with Rails
 gem 'money-rails'
-# Easy file attachment management for ActiveRecord
+# Easy file attachment management for ActiveRecord -- heheh
 gem 'paperclip', '~> 5.0.0'
 # jQuery UI for the Rails asset pipeline
 gem 'jquery-ui-rails'
@@ -116,4 +116,3 @@ group :production do
   # Mailgun's Official Ruby Library
   gem 'mailgun-ruby', '~>1.1.4'
 end
-
